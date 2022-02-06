@@ -29,5 +29,3 @@ const addTodo = (e) => {
 //events
 formEl.addEventListener("submit", addTodo);
 
-//local storage
-const updateLS = () => {};
